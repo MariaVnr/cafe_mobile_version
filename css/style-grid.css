@@ -330,8 +330,14 @@
     }
 
     .menu-category li {
+        display: grid;
         grid-template-columns: 1fr auto;
         gap: 10px;
+        text-align: left;
+    }
+    
+    .price {
+        text-align: right;
     }
 
     #page_menu {
@@ -362,4 +368,5 @@
     }
 }
 }
+
 
