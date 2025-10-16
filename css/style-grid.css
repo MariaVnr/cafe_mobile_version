@@ -273,7 +273,7 @@
     }
 
     .title h1 {
-        font-size: clamp(18px, 4vw, 30px);
+        font-size: clamp(24px, 4vw, 30px);
     }
 
     .slogan1 {
@@ -342,4 +342,5 @@
         height: auto;
         padding: 5px;
     }
+
 }
